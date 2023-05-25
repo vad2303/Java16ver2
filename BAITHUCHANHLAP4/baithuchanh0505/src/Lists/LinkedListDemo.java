@@ -95,5 +95,4 @@ public class LinkedListDemo {
 
         sc.close();
     }
-
 }
